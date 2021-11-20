@@ -1,0 +1,37 @@
+.height{
+         height: 240px;
+}
+.black{
+    background-color: gray;
+}
+.heightb{
+    height: 240px;
+}
+.heightb:hover{
+    /* display: inline-block; */
+  margin: 0 0.5rem;
+
+  animation: animate__flash; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 1s; /* don't forget to set a duration! */
+}
+.img{
+    /* width: 275px; */
+    height: 274px;
+}
+.card-body{
+    text-align: center;
+}
+.background{
+  background-color: gray;
+}
+.img-2{
+    height: 500px ;
+}
+.hoverr:hover{
+    color: goldenrod;
+}
+body{
+    overflow-x: hidden;
+}
+
+
